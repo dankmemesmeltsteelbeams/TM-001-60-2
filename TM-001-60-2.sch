@@ -585,4 +585,28 @@ Text GLabel 4250 3100 2    50   Input ~ 0
 ROW1
 Text GLabel 4250 4400 2    50   Input ~ 0
 ROW0
+NoConn ~ 5250 1300
+NoConn ~ 5250 1700
+NoConn ~ 4250 4300
+NoConn ~ 4250 4100
+NoConn ~ 4250 3400
+NoConn ~ 4250 3500
+NoConn ~ 4250 4900
+NoConn ~ 4250 5000
+NoConn ~ 4250 5100
+NoConn ~ 4250 5200
+NoConn ~ 4250 5300
+NoConn ~ 4250 5400
+NoConn ~ 3050 3100
+NoConn ~ 4250 2500
+NoConn ~ 4250 2600
+NoConn ~ 4250 2700
+NoConn ~ 4250 2800
+NoConn ~ 4250 4700
+NoConn ~ 4250 3700
+NoConn ~ 4250 3800
+NoConn ~ 4250 3900
+NoConn ~ 4250 4000
+NoConn ~ 4250 4200
+NoConn ~ 4250 3200
 $EndSCHEMATC
